@@ -51,7 +51,7 @@ A single-screen Android app, built with **MIT App Inventor**, that helps young l
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/aloshikhs-a11y/LumiLearn/blob/main/WhatsApp%20Image%202026-09-17%20at%2011.57.28%20AM.jpeg)
 
 *The blocks editor showing the flashcard data, navigation, and text-to-speech logic.*
 
